@@ -1,0 +1,21 @@
+{
+  "name": "bootstrapforms45",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Bootstrap Forms Reference",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eocampo/bootstrapforms45.git"
+  },
+  "keywords": [],
+  "author": "Jose Ernesto Ocampo Cicero",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/eocampo/bootstrapforms45/issues"
+  },
+  "homepage": "https://github.com/eocampo/bootstrapforms45#readme"
+}
